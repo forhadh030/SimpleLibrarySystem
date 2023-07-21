@@ -10,7 +10,7 @@ public class Librarian extends BookManagement{
         Scanner scan = new Scanner(System.in);
         int choice;
         do{
-            System.out.println("--------- Welcome To Student Management App ---------");
+            System.out.println("--------- Welcome To Book Management App ---------");
             System.out.println("1 - Add Book");
             System.out.println("2 - Remove Book");
             System.out.println("3 - Update Book");
